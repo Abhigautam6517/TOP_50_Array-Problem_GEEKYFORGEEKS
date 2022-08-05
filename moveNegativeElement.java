@@ -18,7 +18,7 @@ public class moveNegativeElement{
         }
         print(arr2,n);
     }
-    public static void print(int[] arr2,int n){
+    public static void print(int[] arr2,int n){ 
         for(int i = 0;i<n;i++){
             
             System.out.println("The Element are"+arr2[i]);
